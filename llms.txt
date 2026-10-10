@@ -1,0 +1,19 @@
+# @three-ws/assets
+
+> Find a ready-made 3D prop, rigged character, or motion clip on three.ws and add it to your project with the code that renders it. Free and public: no account, no API key, no payment.
+
+@three-ws/assets is a JavaScript library from three.ws. Install: `npx -y @three-ws/assets`.
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-assets/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/three-ws-assets/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/three-ws-assets/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/three-ws-assets/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/three-ws-assets)
+- [npm](https://www.npmjs.com/package/@three-ws/assets)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/three-ws-assets/issues)
