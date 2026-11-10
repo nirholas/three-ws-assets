@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/three-ws-assets",
+  "homepage": "https://nirholas.github.io/three-ws-assets/",
   "license": "Apache-2.0",
   "keywords": [
     "3d",
@@ -14,6 +15,5 @@
     "cc0",
     "threejs",
     "cli"
-  ],
-  "homepage": "https://nirholas.github.io/three-ws-assets/"
+  ]
 }
